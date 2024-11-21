@@ -1,0 +1,29 @@
+.player{
+    width: 200px;
+}
+
+div{
+    width: 280px;
+    border: 10px groove;
+    background-color: pink;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius:50px ;
+    box-shadow: 10px 10px 10px black;
+
+}
+div p{
+    text-align: center;
+}
+#pandyaDiv{
+    background-color: #F4E5BF;
+}
+#nitishDiv{
+    background-color: aquamarine;
+}
+nav{
+    font-size: 1.5rem;
+    background-color: rgb(52, 201, 206);
+}
